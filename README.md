@@ -1,6 +1,6 @@
 # Proyecto__Backend
 
-Este proyecto corresponde al backend del sistema.
+Enlace del proyecto publicado en un sitio gratuito
 
 🌐 **Sitio web desplegado:**  
 https://proyecto-backend-sigma.vercel.app
